@@ -1,0 +1,1 @@
+This repository contains simple projects done by me to practice low level design.
